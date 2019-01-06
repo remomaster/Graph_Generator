@@ -10,6 +10,7 @@ namespace Graph_Generator_Konsolenanwendung
     {
         static void Main(string[] args)
         {
+            // 
         }
     }
 }
